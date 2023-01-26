@@ -4,8 +4,8 @@
 <p>Minha cidade fica no fim de Santa Catarina, onde não tem estágio relacionado a programação, então estou estudando para conseguir emprego em outra cidade ou até mesmo home office.</p><br>
 
 <div style="display: inline_block">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=HazyKa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazyKa&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=HazyKa&show_icons=true&theme=tokyonight"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazyKa&layout=compact&theme=tokyonight"/>
 </div><br>
 
 <div  align="center"> 
