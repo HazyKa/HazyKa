@@ -1,6 +1,6 @@
 <h1>Opa 🫡, me chamo Michel tenho 18 anos.</h1>
 
-<p>Estou estudando para ser programador, tenho alguns projetos básicos feitos com JavaScrpit, HTML e CSS. Mas estou estudando dia a dia para melhorar e quem sabe entrar no mercado ainda este ano.</p>
+<p>Estou estudando para ser programador, tenho alguns projetos básicos feitos com JavaScrpit, HTML e CSS. Estou começando a estudar JAVA, mas nada avançado. Estou estudando dia a dia para melhorar e entrar no mercado de tralho assim que possível.</p>
 <p>Minha cidade fica no fim de Santa Catarina, onde não tem estágio relacionado a programação, então estou estudando para conseguir emprego em outra cidade ou até mesmo home office.</p><br>
 
 <div  align="center"> 
